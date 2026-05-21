@@ -1,4 +1,4 @@
-#Quiz App
+# Quiz App
 
 Interactive React quiz application with timer, answer shuffling, and detailed results summary.
 
