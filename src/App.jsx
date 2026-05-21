@@ -1,3 +1,4 @@
+// Updated quiz app - 2026
 import Header from "./components/Header.jsx";
 import Quiz from "./components/Quiz.jsx";
 
