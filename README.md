@@ -2,6 +2,9 @@
 
 Interactive React quiz application with timer, answer shuffling, and detailed results summary.
 
+## 📸 Preview
+<img width="2880" height="1432" alt="image" src="https://github.com/user-attachments/assets/edd89bf2-b3a7-4a69-bf25-efdd4622ab3e" />
+
 ## Features
 
 - ⏱️ Dynamic timer that adjusts based on user interaction
