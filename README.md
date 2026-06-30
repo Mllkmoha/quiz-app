@@ -45,6 +45,3 @@ npm run dev
 
 Mllkmoha
 
-## License
-
-MIT
